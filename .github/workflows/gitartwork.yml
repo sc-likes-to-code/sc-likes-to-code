@@ -12,10 +12,5 @@
             # Use this username's contribution graph  
             user_name: sc-likes-to-code
             # Text on contribution graph 
-            text: SHOURJYA
-         with:
-            # Use this username's contribution graph  
-            user_name: sc-likes-to-code
-            # Text on contribution graph 
-            text: CHAKRABORTY
+            text: SHOURJYA CHAKRABORTY
        - uses: jasineri/simple-push-action@v1
