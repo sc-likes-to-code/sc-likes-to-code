@@ -1,4 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shourjya Chakraborty</h1>
+
+<div align="center">  
+  ![gitartwork](gitartwork.svg)
+</div>
+
 <h3 align="center">A passionate Web Developer and Tech Enthusiast</h3>
 
 <p align="center">
