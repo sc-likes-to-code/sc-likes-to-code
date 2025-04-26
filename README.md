@@ -103,8 +103,6 @@
 </div>
 <br>
 
-![snake gif](https://github.com/sc-likes-to-code/sc-likes-to-code/blob/output/github-contribution-grid-snake.gif)
-
 ---
 
 
