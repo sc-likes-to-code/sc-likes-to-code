@@ -102,7 +102,9 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sc-likes-to-code&theme=highcontrast" height="180em" />
 </div>
 <br>
-  
+
+![snake gif](https://github.com/sc-likes-to-code/sc-likes-to-code/blob/output/github-contribution-grid-snake.gif)
+
 ---
 
 
