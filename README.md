@@ -83,7 +83,7 @@
 ---
 
 <h3 align="left">📊 GitHub Stats:</h3>
-<h3 align="center">Stars</h3>
+<!-- <h3 align="center">Stars</h3> -->
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sc-likes-to-code&layout=compact&theme=highcontrast" alt="sc-likes-to-code" />
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=sc-likes-to-code&show_icons=true&locale=en&theme=highcontrast" alt="sc-likes-to-code" /></p>
