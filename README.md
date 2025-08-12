@@ -84,9 +84,10 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sc-likes-to-code&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-  ![Profile Views](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Profile%20Views&query=value&url=https://api.countapi.xyz/hit/sc-likes-to-code/sc-likes-to-code)
   <br><br>
 </p>
+
+![Profile Views](https://img.shields.io/badge/dynamic/json?color=blue&label=Profile%20Views&query=value&url=https://api.countapi.xyz/hit/YOUR_USERNAME/github)
 
 ---
 
