@@ -87,8 +87,6 @@
   <br><br>
 </p>
 
-![Profile Views](https://img.shields.io/badge/dynamic/json?color=blue&label=Profile%20Views&query=value&url=https://api.countapi.xyz/hit/YOUR_USERNAME/github)
-
 ---
 
 <h3 align="left">📊 GitHub Stats:</h3>
