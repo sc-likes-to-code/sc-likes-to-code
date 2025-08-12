@@ -82,6 +82,14 @@
 
 ---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sc-likes-to-code&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=sc-likes-to-code&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sc-likes-to-code&theme=radical" alt="GitHub streak stats" />
+</p>
+
+
 <h3 align="left">📊 GitHub Stats:</h3>
 <!-- <h3 align="center">Stars</h3> -->
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sc-likes-to-code&layout=compact&theme=highcontrast" alt="sc-likes-to-code" />
