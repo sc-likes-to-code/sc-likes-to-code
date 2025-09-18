@@ -88,11 +88,21 @@
 </p>
 
 ---
-
+<!--
 <h3 align="center">📊 GitHub Stats:</h3>
 <p align="center">
   <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sc-likes-to-code&layout=compact&theme=highcontrast" alt="sc-likes-to-code" />
 </p>
+-->
+
+<h3 align="center">📊 GitHub Stats:</h3>
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sc-likes-to-code&theme=highcontrast" height="180em" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sc-likes-to-code&theme=highcontrast" height="180em" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sc-likes-to-code&theme=highcontrast" height="180em" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sc-likes-to-code&theme=highcontrast" height="180em" />
+</div>
 
 ---
 
