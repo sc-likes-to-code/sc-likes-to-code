@@ -92,7 +92,6 @@
 <h3 align="center">📊 GitHub Stats:</h3>
 <p align="center">
   <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sc-likes-to-code&layout=compact&theme=highcontrast" alt="sc-likes-to-code" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sc-likes-to-code&layout=compact&theme=highcontrast" alt="Top Languages" />
 </p>
 
 ---
