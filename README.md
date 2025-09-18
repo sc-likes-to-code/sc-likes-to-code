@@ -101,7 +101,6 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sc-likes-to-code&theme=highcontrast" height="180em" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sc-likes-to-code&theme=highcontrast" height="180em" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sc-likes-to-code&theme=highcontrast" height="180em" />
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sc-likes-to-code&layout=compact&theme=highcontrast" alt="sc-likes-to-code" />
 </div>
 
 <br/>
