@@ -104,6 +104,13 @@
   <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sc-likes-to-code&layout=compact&theme=highcontrast" alt="sc-likes-to-code" />
 </div>
 
+<br/>
+
+<!-- Second row for Top Languages -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sc-likes-to-code&layout=compact&theme=highcontrast" alt="Top Languages" />
+</div>
+
 ---
 
 
