@@ -112,6 +112,11 @@
 
 ---
 
+<h3 align="center">Hacktoberfest 2025:</h3>
+
+[![An image of @sclikestocode's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sclikestocode)](https://holopin.io/@sclikestocode)
+
+---
 
 <h3 align="center">🌐 Connect with me:</h3>
 <p align="center">
