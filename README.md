@@ -106,10 +106,11 @@
 <br/>
 
 <!-- Second row for Top Languages -->
+<!--
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sc-likes-to-code&layout=compact&theme=highcontrast" alt="Top Languages" />
 </div>
-
+-->
 ---
 
 <h3 align="center">Hacktoberfest 2025:</h3>
