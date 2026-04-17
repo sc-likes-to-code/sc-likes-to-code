@@ -6,7 +6,7 @@
 
 </div>
 
-<h3 align="center">A passionate Web Developer and Tech Enthusiast</h3>
+<h3 align="center">A passionate Web Developer and ML Enthusiast</h3>
 
 <p align="center">
 🌟 Exploring the realms of technology to build innovative solutions. <br>
