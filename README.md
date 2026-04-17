@@ -15,7 +15,7 @@
 
 
 ---
-
+<!--
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -51,6 +51,8 @@
 </p>
 
 ---
+-->
+
 <!--
 <h3 align="left">✨ Interests:</h3>
 <ul>
